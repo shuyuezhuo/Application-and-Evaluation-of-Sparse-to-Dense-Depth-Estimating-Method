@@ -12,7 +12,7 @@ with both files needing to be located at the root directory of the [1] project f
 CameraCapture.py is used to record raw RGB and depth data from Kinect and saved
 to file ./CameraData, whereas the prediction is implemented in DepthPrediction.py.
 Details of the code structures are discussed in Section 1.2 and 1.3. The details of the
-usage of the program is listed in Section 4.4.
+usage of the program is listed in Section 1.4.
 
 #### 1.1 Prerequisite
 The implementation is dedicated on Windows platform, mainly due to the reason
